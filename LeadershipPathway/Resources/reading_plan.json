@@ -1,0 +1,3264 @@
+{
+  "title": "Leadership Pathway",
+  "subtitle": "34-week reading plan",
+  "weeks": [
+    {
+      "number": 1,
+      "summary": "Mark 1–8; Ps 1–7; Prov 1:1–30",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Mark 1–2; Ps 1–2",
+          "passages": [
+            {
+              "book": "Mark",
+              "abbreviation": "Mark",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "1–2",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Mark 3–4; Prov 1:1–19",
+          "passages": [
+            {
+              "book": "Mark",
+              "abbreviation": "Mark",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "1:1–19",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Mark 5–6; Ps 3–5",
+          "passages": [
+            {
+              "book": "Mark",
+              "abbreviation": "Mark",
+              "reference": "5–6",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "3–5",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Mark 7; Prov 1:20–30; Ps 6",
+          "passages": [
+            {
+              "book": "Mark",
+              "abbreviation": "Mark",
+              "reference": "7",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "1:20–30",
+              "category": "proverbs"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "6",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Mark 8; Ps 7",
+          "passages": [
+            {
+              "book": "Mark",
+              "abbreviation": "Mark",
+              "reference": "8",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "7",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "summary": "Mark 9–15; Ps 8–12; Prov 1:31–2:22",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Mark 9–10; Ps 8",
+          "passages": [
+            {
+              "book": "Mark",
+              "abbreviation": "Mark",
+              "reference": "9–10",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "8",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Mark 11–12; Prov 1:31–2:10",
+          "passages": [
+            {
+              "book": "Mark",
+              "abbreviation": "Mark",
+              "reference": "11–12",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "1:31–2:10",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Mark 13–14:31; Ps 9–10",
+          "passages": [
+            {
+              "book": "Mark",
+              "abbreviation": "Mark",
+              "reference": "13–14:31",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "9–10",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Mark 14:32–72; Prov 2:11–22",
+          "passages": [
+            {
+              "book": "Mark",
+              "abbreviation": "Mark",
+              "reference": "14:32–72",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "2:11–22",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Mark 15; Ps 11–12",
+          "passages": [
+            {
+              "book": "Mark",
+              "abbreviation": "Mark",
+              "reference": "15",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "11–12",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "summary": "Mark 16; Acts 1–7; Ps 13–18:30; Prov 3:1–29",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Mark 16; Acts 1–2; Ps 13–14",
+          "passages": [
+            {
+              "book": "Mark",
+              "abbreviation": "Mark",
+              "reference": "16",
+              "category": "newTestament"
+            },
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "13–14",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Acts 3–4; Prov 3:1–12",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "3:1–12",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Acts 5–6; Ps 15–17",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "5–6",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "15–17",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Acts 7; Prov 3:13–29",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "7",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "3:13–29",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 18:1–30",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "18:1–30",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "summary": "Acts 8–15; Ps 18:31–22:31; Prov 3:30–4:21",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Acts 8–9; Ps 18:31–50",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "8–9",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "18:31–50",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Acts 10–11; Prov 3:30–4:9",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "10–11",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "3:30–4:9",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Acts 12–13; Ps 19–20",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "12–13",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "19–20",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Acts 14–15; Prov 4:10–21",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "14–15",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "4:10–21",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 21–22",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "21–22",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "summary": "Acts 16–22; Ps 23–28; Prov 4:22–5:20",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Acts 16–17; Ps 23",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "16–17",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "23",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Acts 18–19; Prov 4:22–5:8",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "18–19",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "4:22–5:8",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Acts 20; Ps 24–26",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "20",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "24–26",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Acts 21–22; Prov 5:9–20",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "21–22",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "5:9–20",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 27–28",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "27–28",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "summary": "Acts 23–28; Rom 1–2; Ps 29–34:11; Prov 5–6:26",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Acts 23–24; Ps 29–30",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "23–24",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "29–30",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Acts 25–26; Prov 5:21–6:11",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "25–26",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "5:21–6:11",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Acts 27; Rom 1; Ps 31–32",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "27",
+              "category": "newTestament"
+            },
+            {
+              "book": "Romans",
+              "abbreviation": "Rom",
+              "reference": "1",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "31–32",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Acts 28; Rom 2; Prov 6:12–26",
+          "passages": [
+            {
+              "book": "Acts",
+              "abbreviation": "Acts",
+              "reference": "28",
+              "category": "newTestament"
+            },
+            {
+              "book": "Romans",
+              "abbreviation": "Rom",
+              "reference": "2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "6:12–26",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 33–34:11",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "33–34:11",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "summary": "Rom 3–10; Ps 34:12–37:30; Prov 6:27–7:18",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Rom 3–4; Ps 34:12–22",
+          "passages": [
+            {
+              "book": "Romans",
+              "abbreviation": "Rom",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "34:12–22",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Rom 5–6; Prov 6:27–7:5",
+          "passages": [
+            {
+              "book": "Romans",
+              "abbreviation": "Rom",
+              "reference": "5–6",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "6:27–7:5",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Rom 7–8; Ps 35–36",
+          "passages": [
+            {
+              "book": "Romans",
+              "abbreviation": "Rom",
+              "reference": "7–8",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "35–36",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Rom 9; Prov 7:6–18",
+          "passages": [
+            {
+              "book": "Romans",
+              "abbreviation": "Rom",
+              "reference": "9",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "7:6–18",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Rom 10; Ps 37:1–30",
+          "passages": [
+            {
+              "book": "Romans",
+              "abbreviation": "Rom",
+              "reference": "10",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "37:1–30",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "summary": "Rom 11–16; Luke 1; Ps 37:31–41; 38–41; Prov 7:19–8:16",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Rom 11–12; Ps 37:31–41",
+          "passages": [
+            {
+              "book": "Romans",
+              "abbreviation": "Rom",
+              "reference": "11–12",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "37:31–41",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Rom 13–14; Prov 7:19–8:5",
+          "passages": [
+            {
+              "book": "Romans",
+              "abbreviation": "Rom",
+              "reference": "13–14",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "7:19–8:5",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Rom 15–16; Ps 38–39",
+          "passages": [
+            {
+              "book": "Romans",
+              "abbreviation": "Rom",
+              "reference": "15–16",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "38–39",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Luke 1; Prov 8:6–16",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "1",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "8:6–16",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 40–41",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "40–41",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "summary": "Luke 2–9; Ps 42–46; Prov 8:17–9:8",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Luke 2–3; Ps 42",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "2–3",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "42",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Luke 4–5; Prov 8:17–36",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "4–5",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "8:17–36",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Luke 6–7; Ps 43–44",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "6–7",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "43–44",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Luke 8; Prov 9:1–8",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "8",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "9:1–8",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Luke 9; Ps 45–46",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "9",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "45–46",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "summary": "Luke 10–17; Ps 47–51:19; Prov 9:9–10:20",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Luke 10–11; Ps 47–48",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "10–11",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "47–48",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Luke 12–13; Prov 9:9–10:6",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "12–13",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "9:9–10:6",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Luke 14–15; Ps 49–50",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "14–15",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "49–50",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Luke 16–17; Prov 10:7–20",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "16–17",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "10:7–20",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 51:1–19",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "51:1–19",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "summary": "Luke 18–24; Ps 52–57; Prov 10:21–11:12",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Luke 18–19; Ps 52–53",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "18–19",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "52–53",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Luke 20–21; Prov 10:21–11:2",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "20–21",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "10:21–11:2",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Luke 22; Ps 54–55",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "22",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "54–55",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Luke 23; Prov 11:3–12",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "23",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "11:3–12",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Luke 24; Ps 56–57",
+          "passages": [
+            {
+              "book": "Luke",
+              "abbreviation": "Luke",
+              "reference": "24",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "56–57",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "summary": "1 Cor 1–8; Ps 58–64; Prov 11:13–12:8",
+      "days": [
+        {
+          "number": 1,
+          "reading": "1 Cor 1–2; Ps 58–59",
+          "passages": [
+            {
+              "book": "1 Corinthians",
+              "abbreviation": "1 Cor",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "58–59",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "1 Cor 3–4; Prov 11:13–12:1",
+          "passages": [
+            {
+              "book": "1 Corinthians",
+              "abbreviation": "1 Cor",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "11:13–12:1",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "1 Cor 5–6; Ps 60–61",
+          "passages": [
+            {
+              "book": "1 Corinthians",
+              "abbreviation": "1 Cor",
+              "reference": "5–6",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "60–61",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "1 Cor 7; Prov 12:2–8",
+          "passages": [
+            {
+              "book": "1 Corinthians",
+              "abbreviation": "1 Cor",
+              "reference": "7",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "12:2–8",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "1 Cor 8; Ps 62–64",
+          "passages": [
+            {
+              "book": "1 Corinthians",
+              "abbreviation": "1 Cor",
+              "reference": "8",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "62–64",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "summary": "1 Cor 9–16; Ps 65–68:35; Prov 12:9–13:8",
+      "days": [
+        {
+          "number": 1,
+          "reading": "1 Cor 9–10; Ps 65",
+          "passages": [
+            {
+              "book": "1 Corinthians",
+              "abbreviation": "1 Cor",
+              "reference": "9–10",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "65",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "1 Cor 11–12; Prov 12:9–13:2",
+          "passages": [
+            {
+              "book": "1 Corinthians",
+              "abbreviation": "1 Cor",
+              "reference": "11–12",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "12:9–13:2",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "1 Cor 13–14; Ps 66–67",
+          "passages": [
+            {
+              "book": "1 Corinthians",
+              "abbreviation": "1 Cor",
+              "reference": "13–14",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "66–67",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "1 Cor 15; Prov 13:3–8",
+          "passages": [
+            {
+              "book": "1 Corinthians",
+              "abbreviation": "1 Cor",
+              "reference": "15",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "13:3–8",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "1 Cor 16; Ps 68:1–35",
+          "passages": [
+            {
+              "book": "1 Corinthians",
+              "abbreviation": "1 Cor",
+              "reference": "16",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "68:1–35",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "summary": "2 Cor 1–7; Ps 69–71:24; Prov 13:9–14:8",
+      "days": [
+        {
+          "number": 1,
+          "reading": "2 Cor 1–2; Ps 69:1–18",
+          "passages": [
+            {
+              "book": "2 Corinthians",
+              "abbreviation": "2 Cor",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "69:1–18",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "2 Cor 3–4; Prov 13:9–14:1",
+          "passages": [
+            {
+              "book": "2 Corinthians",
+              "abbreviation": "2 Cor",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "13:9–14:1",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "2 Cor 5; Ps 69:19–36; 70",
+          "passages": [
+            {
+              "book": "2 Corinthians",
+              "abbreviation": "2 Cor",
+              "reference": "5",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "69:19–36",
+              "category": "psalms"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "70",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "2 Cor 6–7; Prov 14:2–8",
+          "passages": [
+            {
+              "book": "2 Corinthians",
+              "abbreviation": "2 Cor",
+              "reference": "6–7",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "14:2–8",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 71",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "71",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "summary": "2 Cor 8–13; Gal 1–2; Ps 72–75; Prov 14:9–35",
+      "days": [
+        {
+          "number": 1,
+          "reading": "2 Cor 8–9; Ps 72",
+          "passages": [
+            {
+              "book": "2 Corinthians",
+              "abbreviation": "2 Cor",
+              "reference": "8–9",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "72",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "2 Cor 10; Gal 1; Prov 14:9–20",
+          "passages": [
+            {
+              "book": "2 Corinthians",
+              "abbreviation": "2 Cor",
+              "reference": "10",
+              "category": "newTestament"
+            },
+            {
+              "book": "Galatians",
+              "abbreviation": "Gal",
+              "reference": "1",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "14:9–20",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "2 Cor 11; Gal 2; Ps 73",
+          "passages": [
+            {
+              "book": "2 Corinthians",
+              "abbreviation": "2 Cor",
+              "reference": "11",
+              "category": "newTestament"
+            },
+            {
+              "book": "Galatians",
+              "abbreviation": "Gal",
+              "reference": "2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "73",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "2 Cor 12–13; Prov 14:21–35",
+          "passages": [
+            {
+              "book": "2 Corinthians",
+              "abbreviation": "2 Cor",
+              "reference": "12–13",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "14:21–35",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 74–75",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "74–75",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "summary": "Gal 3–6; Eph 1–4; Ps 76–78:45; Prov 15:1–30",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Gal 3–4; Ps 76",
+          "passages": [
+            {
+              "book": "Galatians",
+              "abbreviation": "Gal",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "76",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Gal 5–6; Prov 15:1–15",
+          "passages": [
+            {
+              "book": "Galatians",
+              "abbreviation": "Gal",
+              "reference": "5–6",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "15:1–15",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Eph 1–2; Ps 77; 78:1–25",
+          "passages": [
+            {
+              "book": "Ephesians",
+              "abbreviation": "Eph",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "77",
+              "category": "psalms"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "78:1–25",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Eph 3–4; Prov 15:16–30",
+          "passages": [
+            {
+              "book": "Ephesians",
+              "abbreviation": "Eph",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "15:16–30",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 78:26–45",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "78:26–45",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "summary": "Eph 5–6; Phil 1–4; Col 1; Ps 78:46–81:8; Prov 15:31–16:24",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Eph 5–6; Ps 78:46–72",
+          "passages": [
+            {
+              "book": "Ephesians",
+              "abbreviation": "Eph",
+              "reference": "5–6",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "78:46–72",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Phil 1–2; Prov 15:31–16:8",
+          "passages": [
+            {
+              "book": "Philippians",
+              "abbreviation": "Phil",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "15:31–16:8",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Phil 3–4; Ps 78:73–81",
+          "passages": [
+            {
+              "book": "Philippians",
+              "abbreviation": "Phil",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "78:73–81",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Col 1; Prov 16:9–24",
+          "passages": [
+            {
+              "book": "Colossians",
+              "abbreviation": "Col",
+              "reference": "1",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "16:9–24",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 79–81:8",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "79–81:8",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "summary": "Col 2–4; Matt 1–5; Ps 81:9–86:17; Prov 16:25–17:19",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Col 2–3; Ps 81:9–82",
+          "passages": [
+            {
+              "book": "Colossians",
+              "abbreviation": "Col",
+              "reference": "2–3",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "81:9–82",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Col 4; Matt 1–2; Prov 16:25–17:5",
+          "passages": [
+            {
+              "book": "Colossians",
+              "abbreviation": "Col",
+              "reference": "4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "16:25–17:5",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Matt 3–4; Ps 83–84",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "83–84",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Matt 5; Prov 17:6–19",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "5",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "17:6–19",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 85–86",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "85–86",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "summary": "Matt 6–12; Ps 87–89:42; Prov 17:20–18:15",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Matt 6–7; Ps 87–88",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "6–7",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "87–88",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Matt 8–9; Prov 17:20–18:2",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "8–9",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "17:20–18:2",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Matt 10; Ps 89:1–18",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "10",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "89:1–18",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Matt 11–12; Prov 18:3–15",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "11–12",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "18:3–15",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 89:19–42",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "89:19–42",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "summary": "Matt 13–20; Ps 89:43–94:12; Prov 18:16–19:20",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Matt 13–14; Ps 89:43–52",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "13–14",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "89:43–52",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Matt 15–16; Prov 18:16–19:5",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "15–16",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "18:16–19:5",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Matt 17–18; Ps 90–91",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "17–18",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "90–91",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Matt 19–20; Prov 19:6–20",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "19–20",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "19:6–20",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 92–94:12",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "92–94:12",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "summary": "Matt 21–28; Ps 94:13–101; Prov 19:21–20:18",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Matt 21–22; Ps 94:13–23",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "21–22",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "94:13–23",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Matt 23–24; Prov 19:21–20:5",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "23–24",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "19:21–20:5",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Matt 25–26; Ps 95–97",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "25–26",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "95–97",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Matt 27; Prov 20:6–18",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "27",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "20:6–18",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Matt 28; Ps 98–101",
+          "passages": [
+            {
+              "book": "Matthew",
+              "abbreviation": "Matt",
+              "reference": "28",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "98–101",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "summary": "Heb 1–7; Ps 102–104:18; Prov 20:19–21:12",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Heb 1–2; Ps 102",
+          "passages": [
+            {
+              "book": "Hebrews",
+              "abbreviation": "Heb",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "102",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Heb 3–4; Prov 20:19–21:2",
+          "passages": [
+            {
+              "book": "Hebrews",
+              "abbreviation": "Heb",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "20:19–21:2",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Heb 5–6; Ps 103",
+          "passages": [
+            {
+              "book": "Hebrews",
+              "abbreviation": "Heb",
+              "reference": "5–6",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "103",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Heb 7; Prov 21:3–12",
+          "passages": [
+            {
+              "book": "Hebrews",
+              "abbreviation": "Heb",
+              "reference": "7",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "21:3–12",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 104:1–18",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "104:1–18",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "summary": "Heb 8–13; James 1–2; Ps 104:19–106:10; Prov 21:13–22:8",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Heb 8–9; Ps 104:19–35",
+          "passages": [
+            {
+              "book": "Hebrews",
+              "abbreviation": "Heb",
+              "reference": "8–9",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "104:19–35",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Heb 10; James 1; Prov 21:13–22:1",
+          "passages": [
+            {
+              "book": "Hebrews",
+              "abbreviation": "Heb",
+              "reference": "10",
+              "category": "newTestament"
+            },
+            {
+              "book": "James",
+              "abbreviation": "James",
+              "reference": "1",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "21:13–22:1",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Heb 11; James 2; Ps 105",
+          "passages": [
+            {
+              "book": "Hebrews",
+              "abbreviation": "Heb",
+              "reference": "11",
+              "category": "newTestament"
+            },
+            {
+              "book": "James",
+              "abbreviation": "James",
+              "reference": "2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "105",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Heb 12–13; Prov 22:2–8",
+          "passages": [
+            {
+              "book": "Hebrews",
+              "abbreviation": "Heb",
+              "reference": "12–13",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "22:2–8",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 106:1–10",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "106:1–10",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "summary": "James 3–5; John 1–4; Ps 106:11–107:35; Prov 22:9–23:8",
+      "days": [
+        {
+          "number": 1,
+          "reading": "James 3; John 1; Ps 106:11–27",
+          "passages": [
+            {
+              "book": "James",
+              "abbreviation": "James",
+              "reference": "3",
+              "category": "newTestament"
+            },
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "1",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "106:11–27",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "James 4; John 2; Prov 22:9–23:8",
+          "passages": [
+            {
+              "book": "James",
+              "abbreviation": "James",
+              "reference": "4",
+              "category": "newTestament"
+            },
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "22:9–23:8",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "James 5; John 3; Ps 106:28–48",
+          "passages": [
+            {
+              "book": "James",
+              "abbreviation": "James",
+              "reference": "5",
+              "category": "newTestament"
+            },
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "3",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "106:28–48",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "John 4; Ps 107:1–22",
+          "passages": [
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "107:1–22",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 107:23–35",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "107:23–35",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "summary": "John 5–11; Ps 107:36–111; Prov 23:9–32",
+      "days": [
+        {
+          "number": 1,
+          "reading": "John 5–6; Ps 107:36–43",
+          "passages": [
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "5–6",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "107:36–43",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "John 7–8; Prov 23:9–18",
+          "passages": [
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "7–8",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "23:9–18",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "John 9–10; Ps 108–109",
+          "passages": [
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "9–10",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "108–109",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "John 11; Prov 23:19–32",
+          "passages": [
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "11",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "23:19–32",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 110–111",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "110–111",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "summary": "John 12–19; Ps 112–117; Prov 23:33–24:25",
+      "days": [
+        {
+          "number": 1,
+          "reading": "John 12–13; Ps 112–113",
+          "passages": [
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "12–13",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "112–113",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "John 14–15; Prov 23:33–24:5",
+          "passages": [
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "14–15",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "23:33–24:5",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "John 16–17; Ps 114–115",
+          "passages": [
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "16–17",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "114–115",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "John 18–19; Prov 24:6–25",
+          "passages": [
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "18–19",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "24:6–25",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 116–117",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "116–117",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "summary": "John 20–21; 1 Thess; 2 Thess 1; Ps 118–119:50; Prov 24:26–25:19",
+      "days": [
+        {
+          "number": 1,
+          "reading": "John 20–21; Ps 118",
+          "passages": [
+            {
+              "book": "John",
+              "abbreviation": "John",
+              "reference": "20–21",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "118",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "1 Thess 1–2; Prov 24:26–25:5",
+          "passages": [
+            {
+              "book": "1 Thessalonians",
+              "abbreviation": "1 Thess",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "24:26–25:5",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "1 Thess 3–4; Ps 119:1–25",
+          "passages": [
+            {
+              "book": "1 Thessalonians",
+              "abbreviation": "1 Thess",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "119:1–25",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "1 Thess 5; 2 Thess 1; Prov 25:6–19",
+          "passages": [
+            {
+              "book": "1 Thessalonians",
+              "abbreviation": "1 Thess",
+              "reference": "5",
+              "category": "newTestament"
+            },
+            {
+              "book": "2 Thessalonians",
+              "abbreviation": "2 Thess",
+              "reference": "1",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "25:6–19",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 119:26–50",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "119:26–50",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "summary": "2 Thess 2–3; 1 Tim 1–5; Ps 119:51–113; Prov 25:20–26:16",
+      "days": [
+        {
+          "number": 1,
+          "reading": "2 Thess 2–3; Ps 119:51–72",
+          "passages": [
+            {
+              "book": "2 Thessalonians",
+              "abbreviation": "2 Thess",
+              "reference": "2–3",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "119:51–72",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "1 Tim 1–2; Prov 25:20–26:2",
+          "passages": [
+            {
+              "book": "1 Timothy",
+              "abbreviation": "1 Tim",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "25:20–26:2",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "1 Tim 3; Ps 119:73–96",
+          "passages": [
+            {
+              "book": "1 Timothy",
+              "abbreviation": "1 Tim",
+              "reference": "3",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "119:73–96",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "1 Tim 4–5; Prov 26:3–16",
+          "passages": [
+            {
+              "book": "1 Timothy",
+              "abbreviation": "1 Tim",
+              "reference": "4–5",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "26:3–16",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 119:97–113",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "119:97–113",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "summary": "1 Tim 6; 2 Tim 1–4; Titus 1–3; Philemon; Ps 119:114–120; Prov 26:17–27:15",
+      "days": [
+        {
+          "number": 1,
+          "reading": "1 Tim 6; 2 Tim 1; Ps 119:114–128",
+          "passages": [
+            {
+              "book": "1 Timothy",
+              "abbreviation": "1 Tim",
+              "reference": "6",
+              "category": "newTestament"
+            },
+            {
+              "book": "2 Timothy",
+              "abbreviation": "2 Tim",
+              "reference": "1",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "119:114–128",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "2 Tim 2–3; Prov 26:17–27:4",
+          "passages": [
+            {
+              "book": "2 Timothy",
+              "abbreviation": "2 Tim",
+              "reference": "2–3",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "26:17–27:4",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "2 Tim 4; Titus 1; Ps 119:129–145",
+          "passages": [
+            {
+              "book": "2 Timothy",
+              "abbreviation": "2 Tim",
+              "reference": "4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Titus",
+              "abbreviation": "Titus",
+              "reference": "1",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "119:129–145",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Titus 2–3; Philemon; Prov 27:5–15",
+          "passages": [
+            {
+              "book": "Titus",
+              "abbreviation": "Titus",
+              "reference": "2–3",
+              "category": "newTestament"
+            },
+            {
+              "book": "Philemon",
+              "abbreviation": "Philemon",
+              "reference": "",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "27:5–15",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 119:146–176; 120",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "119:146–176",
+              "category": "psalms"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "120",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "summary": "1 Pet 1–5; 2 Pet 1–3; Ps 121–128; Prov 27:16–28:16",
+      "days": [
+        {
+          "number": 1,
+          "reading": "1 Pet 1–2; Ps 121–122",
+          "passages": [
+            {
+              "book": "1 Peter",
+              "abbreviation": "1 Pet",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "121–122",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "1 Pet 3–4; Prov 27:16–28:2",
+          "passages": [
+            {
+              "book": "1 Peter",
+              "abbreviation": "1 Pet",
+              "reference": "3–4",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "27:16–28:2",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "1 Pet 5; 2 Pet 1; Ps 123–125",
+          "passages": [
+            {
+              "book": "1 Peter",
+              "abbreviation": "1 Pet",
+              "reference": "5",
+              "category": "newTestament"
+            },
+            {
+              "book": "2 Peter",
+              "abbreviation": "2 Pet",
+              "reference": "1",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "123–125",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "2 Pet 2–3; Prov 28:3–16",
+          "passages": [
+            {
+              "book": "2 Peter",
+              "abbreviation": "2 Pet",
+              "reference": "2–3",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "28:3–16",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 126–128",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "126–128",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "summary": "1 John 1–5; 2 John; 3 John; Ps 129–134; Prov 28:17–29:12",
+      "days": [
+        {
+          "number": 1,
+          "reading": "1 John 1–2; Ps 129–130",
+          "passages": [
+            {
+              "book": "1 John",
+              "abbreviation": "1 John",
+              "reference": "1–2",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "129–130",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "1 John 3; Prov 28:17–29:2",
+          "passages": [
+            {
+              "book": "1 John",
+              "abbreviation": "1 John",
+              "reference": "3",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "28:17–29:2",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "1 John 4–5; Ps 131–132",
+          "passages": [
+            {
+              "book": "1 John",
+              "abbreviation": "1 John",
+              "reference": "4–5",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "131–132",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "2 John; 3 John; Prov 29:3–12",
+          "passages": [
+            {
+              "book": "2 John",
+              "abbreviation": "2 John",
+              "reference": "",
+              "category": "newTestament"
+            },
+            {
+              "book": "3 John",
+              "abbreviation": "3 John",
+              "reference": "",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "29:3–12",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Ps 133–134",
+          "passages": [
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "133–134",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "summary": "Jude; Rev 1–7; Ps 135–139:8; Prov 29:13–30:12",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Jude; Rev 1; Ps 135–136",
+          "passages": [
+            {
+              "book": "Jude",
+              "abbreviation": "Jude",
+              "reference": "",
+              "category": "newTestament"
+            },
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "1",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "135–136",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Rev 2–3; Prov 29:13–30:3",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "2–3",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "29:13–30:3",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Rev 4–5; Ps 137–138",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "4–5",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "137–138",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Rev 6; Prov 30:4–12",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "6",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "30:4–12",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Rev 7; Ps 139:1–8",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "7",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "139:1–8",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "summary": "Rev 8–15; Ps 139:9–145:11; Prov 30:13–31:8",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Rev 8–9; Ps 139:9–24",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "8–9",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "139:9–24",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Rev 10–11; Prov 30:13–23",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "10–11",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "30:13–23",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Rev 12–13; Ps 140–142",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "12–13",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "140–142",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Rev 14; Prov 30:24–31:8",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "14",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "30:24–31:8",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Rev 15; Ps 143–145:11",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "15",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "143–145:11",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "summary": "Rev 16–22; Ps 145:12–150; Prov 31:9–31",
+      "days": [
+        {
+          "number": 1,
+          "reading": "Rev 16–17; Ps 145:12–21",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "16–17",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "145:12–21",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "reading": "Rev 18–19; Prov 31:9–20",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "18–19",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "31:9–20",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "reading": "Rev 20; Ps 146–147",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "20",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "146–147",
+              "category": "psalms"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "reading": "Rev 21; Prov 31:21–31",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "21",
+              "category": "newTestament"
+            },
+            {
+              "book": "Proverbs",
+              "abbreviation": "Prov",
+              "reference": "31:21–31",
+              "category": "proverbs"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "reading": "Rev 22; Ps 148–150",
+          "passages": [
+            {
+              "book": "Revelation",
+              "abbreviation": "Rev",
+              "reference": "22",
+              "category": "newTestament"
+            },
+            {
+              "book": "Psalms",
+              "abbreviation": "Ps",
+              "reference": "148–150",
+              "category": "psalms"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

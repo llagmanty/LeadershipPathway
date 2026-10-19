@@ -1,0 +1,208 @@
+# Source transcription of the 34-week reading plan image.
+# Format: "W<n> | weekly summary" followed by five "D | reading" lines.
+# Passages are separated by "; ". A bare chapter/verse segment ("78:1–25")
+# continues the previous book.
+W1 | Mark 1–8; Ps 1–7; Prov 1:1–30
+D | Mark 1–2; Ps 1–2
+D | Mark 3–4; Prov 1:1–19
+D | Mark 5–6; Ps 3–5
+D | Mark 7; Prov 1:20–30; Ps 6
+D | Mark 8; Ps 7
+W2 | Mark 9–15; Ps 8–12; Prov 1:31–2:22
+D | Mark 9–10; Ps 8
+D | Mark 11–12; Prov 1:31–2:10
+D | Mark 13–14:31; Ps 9–10
+D | Mark 14:32–72; Prov 2:11–22
+D | Mark 15; Ps 11–12
+W3 | Mark 16; Acts 1–7; Ps 13–18:30; Prov 3:1–29
+D | Mark 16; Acts 1–2; Ps 13–14
+D | Acts 3–4; Prov 3:1–12
+D | Acts 5–6; Ps 15–17
+D | Acts 7; Prov 3:13–29
+D | Ps 18:1–30
+W4 | Acts 8–15; Ps 18:31–22:31; Prov 3:30–4:21
+D | Acts 8–9; Ps 18:31–50
+D | Acts 10–11; Prov 3:30–4:9
+D | Acts 12–13; Ps 19–20
+D | Acts 14–15; Prov 4:10–21
+D | Ps 21–22
+W5 | Acts 16–22; Ps 23–28; Prov 4:22–5:20
+D | Acts 16–17; Ps 23
+D | Acts 18–19; Prov 4:22–5:8
+D | Acts 20; Ps 24–26
+D | Acts 21–22; Prov 5:9–20
+D | Ps 27–28
+W6 | Acts 23–28; Rom 1–2; Ps 29–34:11; Prov 5–6:26
+D | Acts 23–24; Ps 29–30
+D | Acts 25–26; Prov 5:21–6:11
+D | Acts 27; Rom 1; Ps 31–32
+D | Acts 28; Rom 2; Prov 6:12–26
+D | Ps 33–34:11
+W7 | Rom 3–10; Ps 34:12–37:30; Prov 6:27–7:18
+D | Rom 3–4; Ps 34:12–22
+D | Rom 5–6; Prov 6:27–7:5
+D | Rom 7–8; Ps 35–36
+D | Rom 9; Prov 7:6–18
+D | Rom 10; Ps 37:1–30
+W8 | Rom 11–16; Luke 1; Ps 37:31–41; 38–41; Prov 7:19–8:16
+D | Rom 11–12; Ps 37:31–41
+D | Rom 13–14; Prov 7:19–8:5
+D | Rom 15–16; Ps 38–39
+D | Luke 1; Prov 8:6–16
+D | Ps 40–41
+W9 | Luke 2–9; Ps 42–46; Prov 8:17–9:8
+D | Luke 2–3; Ps 42
+D | Luke 4–5; Prov 8:17–36
+D | Luke 6–7; Ps 43–44
+D | Luke 8; Prov 9:1–8
+D | Luke 9; Ps 45–46
+W10 | Luke 10–17; Ps 47–51:19; Prov 9:9–10:20
+D | Luke 10–11; Ps 47–48
+D | Luke 12–13; Prov 9:9–10:6
+D | Luke 14–15; Ps 49–50
+D | Luke 16–17; Prov 10:7–20
+D | Ps 51:1–19
+W11 | Luke 18–24; Ps 52–57; Prov 10:21–11:12
+D | Luke 18–19; Ps 52–53
+D | Luke 20–21; Prov 10:21–11:2
+D | Luke 22; Ps 54–55
+D | Luke 23; Prov 11:3–12
+D | Luke 24; Ps 56–57
+W12 | 1 Cor 1–8; Ps 58–64; Prov 11:13–12:8
+D | 1 Cor 1–2; Ps 58–59
+D | 1 Cor 3–4; Prov 11:13–12:1
+D | 1 Cor 5–6; Ps 60–61
+D | 1 Cor 7; Prov 12:2–8
+D | 1 Cor 8; Ps 62–64
+W13 | 1 Cor 9–16; Ps 65–68:35; Prov 12:9–13:8
+D | 1 Cor 9–10; Ps 65
+D | 1 Cor 11–12; Prov 12:9–13:2
+D | 1 Cor 13–14; Ps 66–67
+D | 1 Cor 15; Prov 13:3–8
+D | 1 Cor 16; Ps 68:1–35
+W14 | 2 Cor 1–7; Ps 69–71:24; Prov 13:9–14:8
+D | 2 Cor 1–2; Ps 69:1–18
+D | 2 Cor 3–4; Prov 13:9–14:1
+D | 2 Cor 5; Ps 69:19–36; 70
+D | 2 Cor 6–7; Prov 14:2–8
+D | Ps 71
+W15 | 2 Cor 8–13; Gal 1–2; Ps 72–75; Prov 14:9–35
+D | 2 Cor 8–9; Ps 72
+D | 2 Cor 10; Gal 1; Prov 14:9–20
+D | 2 Cor 11; Gal 2; Ps 73
+D | 2 Cor 12–13; Prov 14:21–35
+D | Ps 74–75
+W16 | Gal 3–6; Eph 1–4; Ps 76–78:45; Prov 15:1–30
+D | Gal 3–4; Ps 76
+D | Gal 5–6; Prov 15:1–15
+D | Eph 1–2; Ps 77; 78:1–25
+D | Eph 3–4; Prov 15:16–30
+D | Ps 78:26–45
+W17 | Eph 5–6; Phil 1–4; Col 1; Ps 78:46–81:8; Prov 15:31–16:24
+D | Eph 5–6; Ps 78:46–72
+D | Phil 1–2; Prov 15:31–16:8
+D | Phil 3–4; Ps 78:73–81
+D | Col 1; Prov 16:9–24
+D | Ps 79–81:8
+W18 | Col 2–4; Matt 1–5; Ps 81:9–86:17; Prov 16:25–17:19
+D | Col 2–3; Ps 81:9–82
+D | Col 4; Matt 1–2; Prov 16:25–17:5
+D | Matt 3–4; Ps 83–84
+D | Matt 5; Prov 17:6–19
+D | Ps 85–86
+W19 | Matt 6–12; Ps 87–89:42; Prov 17:20–18:15
+D | Matt 6–7; Ps 87–88
+D | Matt 8–9; Prov 17:20–18:2
+D | Matt 10; Ps 89:1–18
+D | Matt 11–12; Prov 18:3–15
+D | Ps 89:19–42
+W20 | Matt 13–20; Ps 89:43–94:12; Prov 18:16–19:20
+D | Matt 13–14; Ps 89:43–52
+D | Matt 15–16; Prov 18:16–19:5
+D | Matt 17–18; Ps 90–91
+D | Matt 19–20; Prov 19:6–20
+D | Ps 92–94:12
+W21 | Matt 21–28; Ps 94:13–101; Prov 19:21–20:18
+D | Matt 21–22; Ps 94:13–23
+D | Matt 23–24; Prov 19:21–20:5
+D | Matt 25–26; Ps 95–97
+D | Matt 27; Prov 20:6–18
+D | Matt 28; Ps 98–101
+W22 | Heb 1–7; Ps 102–104:18; Prov 20:19–21:12
+D | Heb 1–2; Ps 102
+D | Heb 3–4; Prov 20:19–21:2
+D | Heb 5–6; Ps 103
+D | Heb 7; Prov 21:3–12
+D | Ps 104:1–18
+W23 | Heb 8–13; James 1–2; Ps 104:19–106:10; Prov 21:13–22:8
+D | Heb 8–9; Ps 104:19–35
+D | Heb 10; James 1; Prov 21:13–22:1
+D | Heb 11; James 2; Ps 105
+D | Heb 12–13; Prov 22:2–8
+D | Ps 106:1–10
+W24 | James 3–5; John 1–4; Ps 106:11–107:35; Prov 22:9–23:8
+D | James 3; John 1; Ps 106:11–27
+D | James 4; John 2; Prov 22:9–23:8
+D | James 5; John 3; Ps 106:28–48
+D | John 4; Ps 107:1–22
+D | Ps 107:23–35
+W25 | John 5–11; Ps 107:36–111; Prov 23:9–32
+D | John 5–6; Ps 107:36–43
+D | John 7–8; Prov 23:9–18
+D | John 9–10; Ps 108–109
+D | John 11; Prov 23:19–32
+D | Ps 110–111
+W26 | John 12–19; Ps 112–117; Prov 23:33–24:25
+D | John 12–13; Ps 112–113
+D | John 14–15; Prov 23:33–24:5
+D | John 16–17; Ps 114–115
+D | John 18–19; Prov 24:6–25
+D | Ps 116–117
+W27 | John 20–21; 1 Thess; 2 Thess 1; Ps 118–119:50; Prov 24:26–25:19
+D | John 20–21; Ps 118
+D | 1 Thess 1–2; Prov 24:26–25:5
+D | 1 Thess 3–4; Ps 119:1–25
+D | 1 Thess 5; 2 Thess 1; Prov 25:6–19
+D | Ps 119:26–50
+W28 | 2 Thess 2–3; 1 Tim 1–5; Ps 119:51–113; Prov 25:20–26:16
+D | 2 Thess 2–3; Ps 119:51–72
+D | 1 Tim 1–2; Prov 25:20–26:2
+D | 1 Tim 3; Ps 119:73–96
+D | 1 Tim 4–5; Prov 26:3–16
+D | Ps 119:97–113
+W29 | 1 Tim 6; 2 Tim 1–4; Titus 1–3; Philemon; Ps 119:114–120; Prov 26:17–27:15
+D | 1 Tim 6; 2 Tim 1; Ps 119:114–128
+D | 2 Tim 2–3; Prov 26:17–27:4
+D | 2 Tim 4; Titus 1; Ps 119:129–145
+D | Titus 2–3; Philemon; Prov 27:5–15
+D | Ps 119:146–176; 120
+W30 | 1 Pet 1–5; 2 Pet 1–3; Ps 121–128; Prov 27:16–28:16
+D | 1 Pet 1–2; Ps 121–122
+D | 1 Pet 3–4; Prov 27:16–28:2
+D | 1 Pet 5; 2 Pet 1; Ps 123–125
+D | 2 Pet 2–3; Prov 28:3–16
+D | Ps 126–128
+W31 | 1 John 1–5; 2 John; 3 John; Ps 129–134; Prov 28:17–29:12
+D | 1 John 1–2; Ps 129–130
+D | 1 John 3; Prov 28:17–29:2
+D | 1 John 4–5; Ps 131–132
+D | 2 John; 3 John; Prov 29:3–12
+D | Ps 133–134
+W32 | Jude; Rev 1–7; Ps 135–139:8; Prov 29:13–30:12
+D | Jude; Rev 1; Ps 135–136
+D | Rev 2–3; Prov 29:13–30:3
+D | Rev 4–5; Ps 137–138
+D | Rev 6; Prov 30:4–12
+D | Rev 7; Ps 139:1–8
+W33 | Rev 8–15; Ps 139:9–145:11; Prov 30:13–31:8
+D | Rev 8–9; Ps 139:9–24
+D | Rev 10–11; Prov 30:13–23
+D | Rev 12–13; Ps 140–142
+D | Rev 14; Prov 30:24–31:8
+D | Rev 15; Ps 143–145:11
+W34 | Rev 16–22; Ps 145:12–150; Prov 31:9–31
+D | Rev 16–17; Ps 145:12–21
+D | Rev 18–19; Prov 31:9–20
+D | Rev 20; Ps 146–147
+D | Rev 21; Prov 31:21–31
+D | Rev 22; Ps 148–150
