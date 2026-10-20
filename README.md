@@ -4,7 +4,7 @@ An iOS app (SwiftUI) for following a **34-week Bible reading plan** and tracking
 
 ## The study plan
 
-The plan comes from the original schedule image. It's transcribed in [`tools/plan_source.txt`](tools/plan_source.txt) and published as:
+The plan comes from the original schedule image ([`docs/source-reading-plan.jpg`](docs/source-reading-plan.jpg)). It's transcribed in [`tools/plan_source.txt`](tools/plan_source.txt) and published as:
 
 - [`docs/STUDY_PLAN.md`](docs/STUDY_PLAN.md): the full plan as readable tables
 - [`LeadershipPathway/Resources/reading_plan.json`](LeadershipPathway/Resources/reading_plan.json): the structured data the app loads
